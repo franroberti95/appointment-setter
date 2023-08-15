@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.top}>
-        <Image src={'/imgs/logotipo.png'} alt={'logo'} width={300} height={55.6}/>
+        <Image src={'/imgs/logotipo.png'} alt={'logo'} width={300} height={82.63}/>
       </div>
 
       <div className={styles.center}>
